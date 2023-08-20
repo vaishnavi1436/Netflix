@@ -1,4 +1,5 @@
-This is simple responsive home page of Netflix using HTML and CSS.
+This is a simple responsive home page of Netflix using HTML and CSS.
+link https://vaishnavi1436.github.io/Netflix/
 
 Output:
 
